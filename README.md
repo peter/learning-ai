@@ -14,5 +14,7 @@ Anthropic:
 
 Claude plugins and skills:
 
-- [Ponytail](https://github.com/dietrichgebert/ponytail)
+- [Ponytail (ponytail-audit, ponytail-review etc.)](https://github.com/dietrichgebert/ponytail)
 - [Matt Pocock skills (grill-me etc.)](https://github.com/mattpocock/skills)
+- [Karpathy Claude.md file](https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md)
+- [Superpowers Agent Workflow](https://github.com/obra/superpowers)
