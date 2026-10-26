@@ -11,3 +11,8 @@ Anthropic:
 
 - [Claude Code by Anthropic](https://claude.com/product/claude-code)
 - [Codex by OpenAI](https://openai.com/codex/)
+
+Claude plugins and skills:
+
+- [Ponytail](https://github.com/dietrichgebert/ponytail)
+- [Matt Pocock skills (grill-me etc.)](https://github.com/mattpocock/skills)
