@@ -23,4 +23,5 @@ Claude plugins and skills:
 
 Articles:
 
+- [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 - [The Collapse Of Software Engineering And The Beginning Of Something New](https://levelup.gitconnected.com/the-collapse-of-software-engineer-9796a96b8022)
