@@ -1,0 +1,19 @@
+[project]
+name = "learning-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Peter Marklund", email = "peter@marklunds.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "mcp[cli]>=2.3.0",
+]
+
+[project.scripts]
+learning-ai = "learning_ai:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"

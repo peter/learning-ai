@@ -49,3 +49,4 @@ LLMs are only as good as you are
 ## Resources
 
 - [Course Homepage](https://themodernsoftware.dev/)
+- [CS146S Study Guide 2026: Lecture-by-Lecture Notes & Workbook](https://www.heyuan110.com/posts/ai/2026-07-02-cs146s-study-guide/)
